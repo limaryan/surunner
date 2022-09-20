@@ -2,12 +2,12 @@
 
 >Joguinho Estilo Dinossauro do Google mas com o Steven Universe e Mario!
 
-[preview!](img/preview.png)
+![preview](img/preview.png)
 
 Porjeto feito por meio do tutorial do canal Manual do dev!
 [Link do vídeo](https://www.youtube.com/watch?v=r9buAwVBDhA)
 
-[Clique aqui para acessar](https://limaryan.github.io/surunner)
+[Clique aqui para acessar o jogo!](https://limaryan.github.io/surunner)
 
 # Os Sprites não tem autoria minha! Links para onde encontrei eles:
 
