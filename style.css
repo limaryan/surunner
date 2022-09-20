@@ -77,7 +77,7 @@ bottom: -50px;
 
 @keyframes cloud-ani{
     from{
-        right: -200px;
+        right: -500px;
     }
     to{
         right: 100%;
